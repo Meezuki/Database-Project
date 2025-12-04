@@ -22,6 +22,6 @@ CREATE TABLE products (
 
 
 
--- add USER
+-- add USERs
 
 INSERT INTO users (username, password) VALUES ('admin', 'admin123');
